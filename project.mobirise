@@ -176,8 +176,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/blur-chart-check-up-415779-2000x1333.jpg",
             "parallax": true,
@@ -193,7 +193,7 @@
             "overlayOpacity": 0.2
           },
           "title": "About Us",
-          "text": "<p>Opexion's founders have 20 years' experience in healthcare solutions. We are focused on using that experience to make the best healthcare solutions available to help organisations to provide the best possible patient care.</p><p><br></p><p>Opexion Pty Ltd</p><p>ABN 69 606 944 432&nbsp;</p>",
+          "text": "<p>Opexion's founders have 20 years' experience in healthcare solutions. We are focused on using that experience to make the best healthcare solutions available to help organisations to provide the best possible patient care.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Theme"
