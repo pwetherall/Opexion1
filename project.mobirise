@@ -216,7 +216,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.6"
           },
-          "title": "Request details today",
+          "title": "Request Details Today",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">CONTACT US</a>",
           "form": {
             "action": "pete@wetherall.net",
@@ -259,7 +259,7 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
